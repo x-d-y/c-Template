@@ -1,1 +1,0 @@
-/usr/bin/c++   -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/test.dir/src/main.cpp.o  -o test  -L/home/xdy/Documents/cpp/template/lib 

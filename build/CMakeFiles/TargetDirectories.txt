@@ -1,3 +1,0 @@
-/home/xdy/Documents/cpp/template/build/CMakeFiles/rebuild_cache.dir
-/home/xdy/Documents/cpp/template/build/CMakeFiles/test.dir
-/home/xdy/Documents/cpp/template/build/CMakeFiles/edit_cache.dir
